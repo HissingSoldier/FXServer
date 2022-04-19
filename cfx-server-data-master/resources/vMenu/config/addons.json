@@ -1,0 +1,28 @@
+{
+  "vehicles": [
+    "hellkitty",
+    "um1",
+    "gcso",
+    "gcso2",
+    "gcso3",
+    "gcso4",
+    "gcso5",
+  
+
+  ],
+  "peds": [
+    "addonpedname1",
+    "addonpedname2"
+  ],
+  "weapons": [
+    "w_pi_combatpistol",
+    "w_pi_sns_pistol",
+    "w_ar_carbinerifle",
+    "w_sg_pumpshotgun",
+
+  ],
+  "weapon_components": [
+    "weapon_component_name_1",
+    "weapon_component_name_2"
+  ]
+}
